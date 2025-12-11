@@ -17,3 +17,12 @@
 ---
 
 > “Cada nuevo conocimiento es un paso más hacia mis metas.” 🌟
+
+### Últimas Entradas
+
+[Implementando la libreria turtle desde cero](blog/tarea2_unidad1.md)
+
+### Tarea Mini-Turtle
+- [Ejercicio 1: Versión Funcional (Modularidad)](https://github.com/vanessaroldan89/mini_turtle_functional)
+- [Ejercicio 2: Versión Orientada a Objetos (POO)](https://github.com/vanessaroldan89/mini_turtle_oo)
+- 
