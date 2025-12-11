@@ -20,8 +20,7 @@
 
 ### Últimas Entradas
 
-[Implementando la libreria turtle desde cero](blog/tarea2_unidad1.md)
-
+[Implementando la libreria turtle desde cero](https://github.com/vanessaroldan89/mi-primera-pagina)
 ### Tarea Mini-Turtle
 - [Ejercicio 1: Versión Funcional (Modularidad)](https://github.com/vanessaroldan89/mini_turtle_functional)
 - [Ejercicio 2: Versión Orientada a Objetos (POO)](https://github.com/vanessaroldan89/mini_turtle_oo)
